@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+shap
+reportlab
+pypdf
+statsmodels
+google-generativeai
+python-dotenv
